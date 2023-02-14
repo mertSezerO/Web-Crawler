@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "18.7.0",
+  "description": "A web crawler implemented using Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertSezerO/Web-Crawler.git"
+  },
+  "author": "Mert Oktay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mertSezerO/Web-Crawler/issues"
+  },
+  "homepage": "https://github.com/mertSezerO/Web-Crawler#readme"
+}
