@@ -4,7 +4,8 @@
   "description": "A web crawler implemented using Node.js",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node main.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mertSezerO/Web-Crawler/issues"
   },
-  "homepage": "https://github.com/mertSezerO/Web-Crawler#readme"
+  "homepage": "https://github.com/mertSezerO/Web-Crawler#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
 }
